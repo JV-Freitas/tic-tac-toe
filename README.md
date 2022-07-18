@@ -2,4 +2,4 @@
 
 ### Rodar o projeto
 
--- Para iniciar o projeto rode o comando `npm start` no terminal.
+-- Para iniciar o projeto rode o comando <strong>`npm start`</strong> no terminal.
